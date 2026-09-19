@@ -58,22 +58,22 @@ The table below summarizes commercial restaurant menu management, ordering platf
 
 Below is a list of top open-source menu management repositories, self-hosted digital menu solutions, and POS connectors, sorted by GitHub stargazers count (descending):
 
-- [![GitHub stars](https://img.shields.io/github/stars/ury-erp/ury?style=social&color=white)](https://github.com/ury-erp/ury/stargazers) **[URY – Open Source Restaurant Management](https://github.com/ury-erp/ury)** 🏪  
+- [![GitHub_Stars](https://img.shields.io/github/stars/ury-erp/ury?style=social&color=white)](https://github.com/ury-erp/ury/stargazers) **[URY – Open Source Restaurant Management](https://github.com/ury-erp/ury)** 🏪  
   FOSS restaurant management system built on ERPNext, featuring centralized menu management, recipes/BOM, outlet-level pricing and availability, and POS integration.
 
-- [![GitHub stars](https://img.shields.io/github/stars/softenrj/qr-menu?style=social&color=white)](https://github.com/softenrj/qr-menu/stargazers) **[QR MENU (MERN Stack)](https://github.com/softenrj/qr-menu)** ⚛️  
+- [![GitHub_Stars](https://img.shields.io/github/stars/softenrj/qr-menu?style=social&color=white)](https://github.com/softenrj/qr-menu/stargazers) **[QR MENU (MERN Stack)](https://github.com/softenrj/qr-menu)** ⚛️  
   A modern MERN-stack (React, Node.js, Express, MongoDB) digital menu & ordering system replacing paper menus with dynamic QR-based alternatives and admin dashboards.
 
-- [![GitHub stars](https://img.shields.io/github/stars/dustinwloring1988/menuqr?style=social&color=white)](https://github.com/dustinwloring1988/menuqr/stargazers) **[MenuQR (Next.js 14)](https://github.com/dustinwloring1988/menuqr/stargazers)** ⚡  
+- [![GitHub_Stars](https://img.shields.io/github/stars/dustinwloring1988/menuqr?style=social&color=white)](https://github.com/dustinwloring1988/menuqr/stargazers) **[MenuQR (Next.js 14)](https://github.com/dustinwloring1988/menuqr/stargazers)** ⚡  
   Full-stack digital menu management built with Next.js 14, featuring real-time analytics, multi-language support, and customizable QR code generation.
 
-- [![GitHub stars](https://img.shields.io/github/stars/blackgirlbytes/blackgyalbites?style=social&color=white)](https://github.com/blackgirlbytes/blackgyalbites/stargazers) **[No-Touch Digital Menu Template](https://github.com/blackgirlbytes/blackgyalbites)** 📄  
+- [![GitHub_Stars](https://img.shields.io/github/stars/blackgirlbytes/blackgyalbites?style=social&color=white)](https://github.com/blackgirlbytes/blackgyalbites/stargazers) **[No-Touch Digital Menu Template](https://github.com/blackgirlbytes/blackgyalbites)** 📄  
   Lightweight static HTML/CSS digital menu template designed for hosting on GitHub Pages without server maintenance.
 
-- [![GitHub stars](https://img.shields.io/github/stars/yusuferdemyamali/qr-menu-laravel?style=social&color=white)](https://github.com/yusuferdemyamali/qr-menu-laravel/stargazers) **[QR Menu Laravel 12](https://github.com/yusuferdemyamali/qr-menu-laravel/stargazers)** 🐘  
+- [![GitHub_Stars](https://img.shields.io/github/stars/yusuferdemyamali/qr-menu-laravel?style=social&color=white)](https://github.com/yusuferdemyamali/qr-menu-laravel/stargazers) **[QR Menu Laravel 12](https://github.com/yusuferdemyamali/qr-menu-laravel/stargazers)** 🐘  
   Digital menu system for cafes and restaurants using Laravel 12 and Filament admin panel for mobile-first contactless QR ordering.
 
-- [![GitHub stars](https://img.shields.io/github/stars/aryadians/laracarte?style=social&color=white)](https://github.com/aryadians/laracarte/stargazers) **[Laracarte POS & Menu](https://github.com/aryadians/laracarte/stargazers)** 🛒  
+- [![GitHub_Stars](https://img.shields.io/github/stars/aryadians/laracarte?style=social&color=white)](https://github.com/aryadians/laracarte/stargazers) **[Laracarte POS & Menu](https://github.com/aryadians/laracarte/stargazers)** 🛒  
   Restaurant management and POS system built with Laravel 12 & Livewire, including digital QR menus, Kitchen Display Systems (KDS), and inventory.
 
 ---
